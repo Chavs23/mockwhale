@@ -1,0 +1,15 @@
+﻿# Binaries
+*.exe
+mockwhale
+
+# Database
+*.db
+*.db-journal
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
