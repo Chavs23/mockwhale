@@ -1,12 +1,3 @@
-### 2\. Проект: **MockWhale** 🐳
-
-**Что вставить в блок "About" (описание репозитория):**
-`🐳 Lightweight, self-hosted API mocking service with a built-in Go dashboard and SQLite storage.`
-**Теги (Topics):** `go`, `golang`, `mock-server`, `api-testing`, `sqlite`, `fullstack`, `dashboard`
-
-**Обновленный README.md:**
-
-````markdown
 # 🐳 MockWhale
 
 ![Go Version](https://img.shields.io/github/go-mod/go-version/Chavs23/mockwhale?style=flat-square&color=00ADD8)
@@ -31,8 +22,7 @@
 1. **Склонируйте репозиторий:**
    ```bash
    git clone [https://github.com/Chavs23/mockwhale.git](https://github.com/Chavs23/mockwhale.git)
-
-    Запустите сервер:
+   Запустите сервер:
     Bash
 
     go run cmd/api/main.go
@@ -40,6 +30,3 @@
     Откройте дашборд: http://localhost:3000/_dashboard
 
 Разработано Chavs23 🇰🇿
-
-
----
